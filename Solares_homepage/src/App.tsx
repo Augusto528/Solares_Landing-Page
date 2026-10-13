@@ -15,8 +15,8 @@ type Membro = {
 };
 
 const MEMBROS: Membro[] = [
-  { nome: "Nome do Membro", funcao: "Coordenador(a)", curso: "Engenharia Mecânica" },
-  { nome: "Nome do Membro", funcao: "Acionamento", curso: "Engenharia Elétrica" },
+  { nome: "Rafael", funcao: "DG", curso: "Engenharia Elétrica" },
+  { nome: "Augusto", funcao: "Líder Elétrica", curso: "Engenharia Elétrica" },
   { nome: "Nome do Membro", funcao: "Estrutura", curso: "Engenharia Mecânica" },
   { nome: "Nome do Membro", funcao: "Telemetria", curso: "Engenharia de Computação" },
   { nome: "Nome do Membro", funcao: "Comunicação", curso: "Comunicação Social" },
